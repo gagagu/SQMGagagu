@@ -1,0 +1,12 @@
+D:\copy\Programmierung\privat\arma\SQMGagagu\SQMGagagu\bin\Debug\SQMGagagu.dll
+D:\copy\Programmierung\privat\arma\SQMGagagu\SQMGagagu\bin\Debug\SQMGagagu.pdb
+D:\copy\Programmierung\privat\arma\SQMGagagu\SQMGagagu\bin\Debug\Arma2Net.AddInProxy.dll
+D:\copy\Programmierung\privat\arma\SQMGagagu\SQMGagagu\obj\Debug\SQMGagagu.dll
+D:\copy\Programmierung\privat\arma\SQMGagagu\SQMGagagu\obj\Debug\SQMGagagu.pdb
+D:\copy\Programmierung\privat\arma\SQMGagagu\SQMGagagu\obj\Debug\SQMGagagu.csprojResolveAssemblyReference.cache
+C:\Users\gagagu\Documents\programmierung\arma\SQMGagagu\SQMGagagu\bin\Debug\SQMGagagu.dll
+C:\Users\gagagu\Documents\programmierung\arma\SQMGagagu\SQMGagagu\bin\Debug\SQMGagagu.pdb
+C:\Users\gagagu\Documents\programmierung\arma\SQMGagagu\SQMGagagu\bin\Debug\Arma2Net.AddInProxy.dll
+C:\Users\gagagu\Documents\programmierung\arma\SQMGagagu\SQMGagagu\obj\Debug\SQMGagagu.csprojResolveAssemblyReference.cache
+C:\Users\gagagu\Documents\programmierung\arma\SQMGagagu\SQMGagagu\obj\Debug\SQMGagagu.dll
+C:\Users\gagagu\Documents\programmierung\arma\SQMGagagu\SQMGagagu\obj\Debug\SQMGagagu.pdb

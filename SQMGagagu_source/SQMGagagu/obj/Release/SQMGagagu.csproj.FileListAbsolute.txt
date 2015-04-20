@@ -1,0 +1,10 @@
+D:\copy\Programmierung\privat\arma\SQMGagagu\SQMGagagu\bin\Release\SQMGagagu.dll
+D:\copy\Programmierung\privat\arma\SQMGagagu\SQMGagagu\bin\Release\SQMGagagu.pdb
+D:\copy\Programmierung\privat\arma\SQMGagagu\SQMGagagu\bin\Release\Arma2Net.AddInProxy.dll
+D:\copy\Programmierung\privat\arma\SQMGagagu\SQMGagagu\obj\Release\SQMGagagu.dll
+D:\copy\Programmierung\privat\arma\SQMGagagu\SQMGagagu\obj\Release\SQMGagagu.pdb
+C:\Users\gagagu\Documents\programmierung\arma\SQMGagagu\SQMGagagu\bin\Release\SQMGagagu.dll
+C:\Users\gagagu\Documents\programmierung\arma\SQMGagagu\SQMGagagu\bin\Release\SQMGagagu.pdb
+C:\Users\gagagu\Documents\programmierung\arma\SQMGagagu\SQMGagagu\bin\Release\Arma2Net.AddInProxy.dll
+C:\Users\gagagu\Documents\programmierung\arma\SQMGagagu\SQMGagagu\obj\Release\SQMGagagu.dll
+C:\Users\gagagu\Documents\programmierung\arma\SQMGagagu\SQMGagagu\obj\Release\SQMGagagu.pdb
